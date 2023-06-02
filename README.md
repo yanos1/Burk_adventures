@@ -1,1 +1,1 @@
-# Burk_adventures, a game i made before i started studying computer sceince
+# Burk_adventures, a game i made before i started studying computer sceince. in this game you are playing Burk the hero, that defends the desert from various enemies. it is an unfinished game, but its still fun
